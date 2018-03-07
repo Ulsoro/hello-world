@@ -1,2 +1,5 @@
 # hello-world
-a short description.
+
+Location: Earth
+Type: Humanoid
+Subtype: Logic-based lifeform
